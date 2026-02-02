@@ -1,0 +1,22 @@
+
+{
+  "name": "Expense Tracker AI",
+  "short_name": "ExpenseAI",
+  "description": "A mobile-first expense tracking application that uses AI to analyze receipts from images. Users can capture bills with their camera, upload from their gallery, or add expenses manually. The app automatically categorizes expenses and provides a dashboard with visualizations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#8B5CF6",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
